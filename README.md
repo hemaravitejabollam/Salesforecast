@@ -1,2 +1,2 @@
-# Salesforecast
-Salesforecast
+# Sales forecast
+Sales forecast
